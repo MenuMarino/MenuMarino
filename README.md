@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MenuMarino
 - 👀 I’m interested in game, web and mobile development
-- 🌱 I’m currently learning Node JS.
+- 🌱 I’m currently learning Node JS, NestJS and MongoDB.
 - 📫 How to reach me benjamin.diaz@utec.edu.pe
 
 <!---
